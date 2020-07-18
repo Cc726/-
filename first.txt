@@ -1,0 +1,30 @@
+ “Software is like sex： it”s better when it”s free.”
+
+     软件就像性，免费的比花钱的好得多。
+
+“Microsoft isn”t evil， they just make really crappyoperatingsystems.”
+
+     微软并不是魔鬼，只是它的操作系统实在太蹩脚了
+
+
+ “See， you not only have to be a good coder to create asystemlike Linux， you have to be a sneaky bastard too.”
+
+    要想能够创造Linux这样得操作系统不只是需要良好得程序员，还得需要一批心理阴暗的混蛋
+
+
+ “Some people have told me they don”t think a fat penguinreallyembodies the grace of Linux， which just tells me they haveneverseen a angry penguin charging at them in excess of 100mph.”
+
+    很多朋友和我说那只胖企鹅不配代表Linux操作系统，因为他们从来没见过一只愤怒的企鹅以100迈的速度向他们发起攻击
+
+ “Intelligence is the ability to avoid doing work， yetgettingthe work done.”
+
+    天赋就是事半功倍
+
+ “When you say， “I wrote a program that crashed Windows，”peoplejust stare at you blankly and say， “Hey， I got those withthesystem， for free.””
+
+    你骄傲的和别人说，嘿，我写了个能让Windows崩溃的程序，他们会说“哥们，我装Windows系统的时候就免费带着了”
+
+“I don”t doubt at all that virtualization is useful insomeareas. What I doubt rather strongly is that it will ever havethekind of impact that the people involved in virtualization wantitto have.”
+
+    我对虚拟化的技术使用没有任何怀疑，我怀疑的是他们对人的影响。
+
